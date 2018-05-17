@@ -8,5 +8,6 @@ accurate identification of non-co-linear transcripts (fusion, trans-splicing and
 
 Citation: Trees-Juen Chuang*, Chan-Shuo Wu, Chia-Ying Chen, Li-Yang Hung, Tai-Wei Chiang. (2016) NCLscan: accurate identification of non-co-linear transcripts with a good balance between sensitivity and precision. Nucleic Acids Research, 44(3), e29. 
 
+Repository | Link | Corresponding
 ------------ | ------------- | -------------
 ## Mail-cron | https://github.com/Academia-Sinica/Mail-cron| Prof. WDW
